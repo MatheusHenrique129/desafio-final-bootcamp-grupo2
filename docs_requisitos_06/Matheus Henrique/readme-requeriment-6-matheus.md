@@ -1,6 +1,5 @@
 ### 6º Requisito
-**Objetivo:** O é o usuario e/ou o Representante poder cadastrar novos usuarios na plataforma.
-
+**Objetivo:** O usuario e/ou o Representante poder cadastrar novos usuarios na plataforma.
 
 
 **Endpoints:**
@@ -9,3 +8,4 @@
 |POST| /api/v1/user/add/representative|Cadastra um Representante.|
 |POST| /api/v1/user/add/seller|Cadastra um Vendedor.|
 |POST| /api/v1/user/add/buyer|Cadastra um comprador.|
+
